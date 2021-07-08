@@ -4,6 +4,15 @@
 
 Repositório criado para armazenar o código realizado durante o curso "Design Patterns em Java I: Introdução às boas práticas de programação" da [Alura](https://cursos.alura.com.br/course/introducao-design-patterns-java).
 
+## :gear: Design Pattern Utilizados
+  
+  - [x] Strategy
+  - [x] Chain of Responsibility
+  - [ ] Template Method
+  - [ ] State
+  - [ ] Command
+  - [ ] Observer
+
 ## 🦸 Autora
 
 <table>
