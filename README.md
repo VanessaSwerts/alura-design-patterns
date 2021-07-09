@@ -10,7 +10,7 @@ Repositório criado para armazenar o código realizado durante o curso "Design P
   - [x] Chain of Responsibility
   - [x] Template Method
   - [x] State
-  - [ ] Command
+  - [x] Command
   - [ ] Observer
 
 ## 🦸 Autora
