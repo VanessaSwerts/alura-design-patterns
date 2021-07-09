@@ -11,7 +11,7 @@ Repositório criado para armazenar o código realizado durante o curso "Design P
   - [x] Template Method
   - [x] State
   - [x] Command
-  - [ ] Observer
+  - [x] Observer
 
 ## 🦸 Autora
 
