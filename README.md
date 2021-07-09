@@ -9,7 +9,7 @@ Repositório criado para armazenar o código realizado durante o curso "Design P
   - [x] Strategy
   - [x] Chain of Responsibility
   - [x] Template Method
-  - [ ] State
+  - [x] State
   - [ ] Command
   - [ ] Observer
 
