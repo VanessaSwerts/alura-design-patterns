@@ -6,12 +6,12 @@ Repositório criado para armazenar o código realizado durante o curso "Design P
 
 ## :gear: Design Pattern Utilizados
   
-  - [x] Strategy
-  - [x] Chain of Responsibility
-  - [x] Template Method
-  - [x] State
-  - [x] Command
-  - [x] Observer
+  - [x] [Strategy](https://refactoring.guru/design-patterns/strategy)
+  - [x] [Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility)
+  - [x] [Template Method](https://refactoring.guru/design-patterns/template-method)
+  - [x] [State](https://refactoring.guru/design-patterns/state)
+  - [x] [Command](https://refactoring.guru/design-patterns/command)
+  - [x] [Observer](https://refactoring.guru/design-patterns/observer)
 
 ## 🦸 Autora
 
